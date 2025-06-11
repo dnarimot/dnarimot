@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there, I'm Daiki Narimoto 👋
+
+**Full Stack Developer | Machine Learning Enthusiast | Undergraduate at UCI**
+
+---
+
+### 👨‍💻 About Me
+
+Hello! I'm Daiki, a passionate Full Stack Developer and current undergraduate student at UC Irvine. My journey involves learning Machine Learning fundamentals, implementing Convolutional Neural Networks (CNNs) for a research lab, and constantly expanding my full-stack capabilities.
+
+---
+
+### 🚀 Skills & Technologies
+
+- **Languages & Frameworks:** Python, JavaScript (React, Node.js, Express)
+- **Databases:** PostgreSQL
+- **Interests:** Machine Learning, Deep Learning, Artificial Intelligence
+
+---
+
+### 📝 Currently Working On
+
+- Building and training CNNs for academic research at UCI 🧠
+- Exploring modern full stack development tools and best practices
+
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daiki-narimoto/)
+
+---
+
+### 🏀 Fun Facts
+
+- I love playing basketball, pickleball, and bowling in my free time!
+- Always eager to collaborate, learn, and tackle new challenges.
+
+---
+
+_“Striving to bridge the gap between web development and intelligent systems.”_
 
 <!--
-**dnarimot/dnarimot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**dnarimot/dnarimot** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
