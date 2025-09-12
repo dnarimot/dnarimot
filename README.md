@@ -1,6 +1,6 @@
 # Hi there, I'm Daiki Narimoto 👋
 
-**Full Stack Developer | Machine Learning Enthusiast | Undergraduate at UCI**
+**Full Stack Developer | Machine Learning Research Assistant | Undergraduate at UCI**
 
 ---
 
@@ -12,9 +12,12 @@ Hello! I'm Daiki, a passionate Full Stack Developer and current undergraduate st
 
 ### 🚀 Skills & Technologies
 
-- **Languages & Frameworks:** Python, JavaScript (React, Node.js, Express)
-- **Databases:** PostgreSQL
-- **Interests:** Machine Learning, Deep Learning, Artificial Intelligence
+- **Languages:** Python, Typescript, JavaScript, C++
+- **Frontend:** React.js, HTML/CSS, chakraUI, Bootstrap
+- **Backend:** Node.js, Express.js, Flask
+- **Mobile:** React Native, UI Kitten
+- **Databases:** PostgreSQL, Supabase, MySQL, SQLite
+- **Interests:** Full-Stack Development, Mobile iOS Development, AI Agents, Machine Learning
 
 ---
 
