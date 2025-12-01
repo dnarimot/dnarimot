@@ -13,17 +13,16 @@ Hello! I'm Daiki, a passionate Full Stack Developer and current undergraduate st
 ### 🚀 Skills & Technologies
 
 - **Languages:** Python, Typescript, JavaScript, C++
-- **Frontend:** React.js, HTML/CSS, chakraUI, Bootstrap
+- **Frontend:** React.js, HTML/CSS, chakraUI
 - **Backend:** Node.js, Express.js, Flask
 - **Mobile:** React Native, UI Kitten
-- **Databases:** PostgreSQL, Supabase, MySQL, SQLite
-- **Interests:** Full-Stack Development, Mobile iOS Development, AI Agents, Machine Learning
+- **Databases:** PostgreSQL, Supabase
+- **Interests:** Full-Stack Development, Mobile iOS Development, AI Agents
 
 ---
 
 ### 📝 Currently Working On
 
-- Building and training CNNs for academic research at UCI 🧠
 - Exploring modern full stack development tools and best practices
 
 ---
