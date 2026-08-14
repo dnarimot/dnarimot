@@ -1,29 +1,28 @@
 # Hi there, I'm Daiki Narimoto 👋
 
-**Full Stack Developer | Machine Learning Research Assistant | Undergraduate at UCI**
+**Full Stack Engineer @Institute Connect | Computer Science and Engineering @UCI
 
 ---
 
 ### 👨‍💻 About Me
 
-Hello! I'm Daiki, a passionate Full Stack Developer and current undergraduate student at UC Irvine. My journey involves learning Machine Learning fundamentals, implementing Convolutional Neural Networks (CNNs) for a research lab, and constantly expanding my full-stack capabilities.
-
+Hello! I'm Daiki, a passionate Full Stack Engineer and I graduated from UC Irvine on June 2026 with a Bachelor of Science in Computer Science and Engineering. My current journey involves expanding my knowledge of AI Agents and agentic workflows, as well as increasing my full stack capabilities through freelance work and personal projects. 
 ---
 
 ### 🚀 Skills & Technologies
 
 - **Languages:** Python, Typescript, JavaScript
-- **Frontend:** React.js, HTML/CSS, chakraUI
+- **Frontend:** Next.js, React.js, HTML/CSS, Chakra UI
 - **Backend:** Node.js, Express.js, FastAPI
 - **Mobile:** React Native, UI Kitten
-- **Databases:** PostgreSQL, Supabase
-- **Interests:** Full-Stack Development, Mobile iOS Development, AI Agents
+- **Databases:** PostgreSQL, Supabase, MySQL, Firebase
+- **Interests:** Full-Stack Development, AI Agents
 
 ---
 
 ### 📝 Currently Working On
 
-- Exploring modern full stack development tools and best practices
+- An end-to-end job-hunt automation project for US tech applications. A Chrome extension captures a posting, an LLM turns messy page text into structured fields, you confirm or edit the fields, then the app dual-writes to Supabase (source of truth) and Notion (workspace view). A later agent will update status from forwarded recruiter/ATS email, reducing manual workload for students having to manage emails and application statuses. 
 
 ---
 
