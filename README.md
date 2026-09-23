@@ -1,6 +1,6 @@
 # Hi there, I'm Daiki Narimoto 👋
 
-**Full Stack Engineer @Institute Connect | Computer Science and Engineering @UCI
+## Prev. Full Stack Engineer @Institute Connect | June 2026 Graduate in Computer Science and Engineering @UC Irvine
 
 ---
 
@@ -26,6 +26,16 @@ Hello! I'm Daiki, a passionate Full Stack Engineer and I graduated from UC Irvin
 
 ---
 
+---
+
+### 📝 Previous Work
+
+- Institute Connect Dual-Dashboard Web App
+- Global Creation Foundation (GCF) Admin Portal
+- La Pena Cultural Center (LPA) Admin Portal
+
+---
+
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daiki-narimoto/)
@@ -39,7 +49,6 @@ Hello! I'm Daiki, a passionate Full Stack Engineer and I graduated from UC Irvin
 
 ---
 
-_“Striving to bridge the gap between web development and intelligent systems.”_
 
 <!--
 **dnarimot/dnarimot** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
