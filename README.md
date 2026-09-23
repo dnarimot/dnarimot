@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-Hello! I'm Daiki, a passionate Full Stack Engineer and I graduated from UC Irvine on June 2026 with a Bachelor of Science in Computer Science and Engineering. My current journey involves expanding my knowledge of AI Agents and agentic workflows, as well as increasing my full stack capabilities through freelance work and personal projects. 
+Hello! I'm Daiki, a passionate Full Stack Engineer and I graduated from UC Irvine in June 2026 with a Bachelor of Science in Computer Science and Engineering. My current journey involves expanding my knowledge of AI Agents and agentic workflows, as well as increasing my full stack capabilities through freelance work and personal projects. 
 ---
 
 ### 🚀 Skills & Technologies
