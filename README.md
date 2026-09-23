@@ -31,8 +31,8 @@ Hello! I'm Daiki, a passionate Full Stack Engineer and I graduated from UC Irvin
 ### 📝 Previous Work
 
 - Institute Connect Dual-Dashboard Web App
-- Global Creation Foundation (GCF) Admin Portal
-- La Pena Cultural Center (LPA) Admin Portal
+- Global Creation Foundation (ctc-uci/gcf) Admin Portal
+- La Pena Cultural Center (ctc-uci/lpa) Admin Portal
 
 ---
 
